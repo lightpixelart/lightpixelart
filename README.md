@@ -1,2 +1,6 @@
-# lightpixelart
-My website
+Light Pixel art
+=========
+
+My website and portfolio.
+
+[Link](http://lightpixelart.github.io)
